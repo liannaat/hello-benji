@@ -3,7 +3,7 @@ tranlianna@gmail.com | (415) 919-9354 | San Francisco, CA
 ___
 ## <u>**Education**</u> 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin: auto;">
   <span>San Jose State University</span>
   <span>San Jose, CA</span>
 </div> 
@@ -18,7 +18,7 @@ ___
       <li>Awards: Dean’s List for 6 Semesters (Aug 2021-May 2024)</li>
     </ul>
   </span>
-  <span>cum laude (GPA 3.67)</span>
+  <span>Cum Laude (GPA 3.67)</span>
 </div>
 
 
@@ -54,7 +54,7 @@ ___
 
 
 <div style="display: flex; justify-content: space-between;">
-  <span style="font-size: 1.2em;"><strong>Independent online reseller</strong></span>
+  <span style="font-size: 1.2em;"><strong>Independent Online Reseller</strong></span>
   <span>Aug. 2020 – Present </span>
 </div>
 
